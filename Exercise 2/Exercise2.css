@@ -1,0 +1,46 @@
+h1 {border-style: solid;
+    border-color: rgb(54, 100, 7);
+    text-align: center;
+    width: 100%;
+    background-color: chartreuse;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+    }
+
+h3 {    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
+    p {text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+ }
+ h2 {border-style: solid;
+    border-color: rgb(187, 211, 163);
+    text-align: center;
+    width: 100%;
+    background-color: rgb(125, 155, 94);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+ }
+ a:link {  background-color: #06830c;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+button {background-color: violet;
+text-align: center;
+text-decoration: none;
+padding-top: 15px;
+padding-bottom: 15px;
+font-size: large;
+font-family: "Lucida Console", "Courier New", monospace;
+border-radius: 5px;
+font-weight: bold;
+
+}
