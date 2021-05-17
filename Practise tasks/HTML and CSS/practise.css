@@ -1,0 +1,54 @@
+body { 
+    background-color: greenyellow;
+}
+.buttons {
+    padding-left: 65%;
+    background-color: white;
+    
+}
+button {
+    background-color: orange;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+  h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:orange
+      
+  }
+  h3 {
+    font-family: Arial, Helvetica, sans-serif;  
+    color: grey;
+  }
+  h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange
+  }
+ .header {
+    background-color: white;
+    padding: 30px  
+ }
+
+ h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 75%;
+     color: white;
+ }
+
+  .side {
+      padding-right: 30%;
+      background-color: white;
+  }
+  a {
+      color: white;
+      
+  }
+ 
+}
