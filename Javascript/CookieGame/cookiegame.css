@@ -1,0 +1,37 @@
+.clicker {
+    background-image: url(CookieBgd.jpg);
+    padding-right: 66%;
+}
+header {
+    background-image: url(CookieBannerImg.jpg);
+    padding: 100px
+}
+.cookiebutton {
+    background-image: url(CookieBgd.jpg);
+    background-blend-mode: multiply;
+}
+h1 {
+
+    text-align:center;
+    padding-top: 20px;
+    margin-bottom: 5px;
+    font-size: 30px;
+    border:5px solid;
+    border-radius:10px;
+    background-color: rgb(13, 117, 202);
+    color: white;
+    width:389px;
+    height:60px;
+}
+h2 {
+    text-align:center;
+    padding-top: 20px;
+    margin-bottom: 5px;
+    font-size: 30px;
+    border:5px solid;
+    border-radius:10px;
+    background-color: rgb(13, 117, 202);
+    color: white;
+    width:389px;
+    height:60px;
+}
